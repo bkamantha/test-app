@@ -376,8 +376,8 @@ img {
   
 }
 #contact .contact-items{
-  width: 400px;
-
+  width: 100%;
+  display: inline-flex;
 }
 #contact .contact-item{
   width: 90%;
